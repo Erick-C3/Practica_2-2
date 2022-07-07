@@ -12,3 +12,5 @@
 1. **Cerrar la conexion a la base de datos**
 1. **Agregar archivo `.env.completar` sin la informacion importante**
 1. **Subir el proyecto `SIN la carpeta node_modules y .env` a su repo de github**
+
+1. **Completar la practica con las operaciones `CRUD`**
